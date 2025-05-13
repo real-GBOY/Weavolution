@@ -2,7 +2,7 @@ import { ImpactData } from '../types';
 
 export const impactData: ImpactData = {
   direct: {
-    jobs: 120,
+    jobs: 125,
     communityOutreach: 15,
   },
   indirect: {
