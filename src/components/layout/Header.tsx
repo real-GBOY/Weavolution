@@ -48,7 +48,7 @@ const Header: React.FC = () => {
 
   return (
     <header className={headerClasses}>
-      <div className="container-custom flex justify-between items-center">
+      <div className="container-custom flex justify-between items-center ">
         <Link to="/" className="flex items-center gap-2">
           <motion.div
             initial={{ rotate: 0 }}
